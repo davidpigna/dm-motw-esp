@@ -1,0 +1,117 @@
+{
+  "title": "dm-motw-esp",
+  "version": "1.0.0",
+  "system": "pbta",
+  "background": "worlds/monsteroftheweek/Imagenes/Escenas/Monsterofftheweek.jpeg",
+  "coreVersion": "10.288",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.6.1",
+  "id": "monsteroftheweek",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.288"
+  },
+  "description": "<p></p>",
+  "packs": [
+    {
+      "label": "Playbooks",
+      "type": "Item",
+      "name": "playbooks",
+      "path": "packs/playbooks.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armas antiguas",
+      "type": "Item",
+      "name": "armas-antiguas",
+      "path": "packs/armas-antiguas.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armas Divinas",
+      "type": "Item",
+      "name": "armas-divinas",
+      "path": "packs/armas-divinas.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armas Eficaces/modernas",
+      "type": "Item",
+      "name": "armas-eficacesmodernas",
+      "path": "packs/armas-eficacesmodernas.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armas Improvisadas",
+      "type": "Item",
+      "name": "armas-improvisadas",
+      "path": "packs/armas-improvisadas.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armas Ocultas",
+      "type": "Item",
+      "name": "armas-ocultas",
+      "path": "packs/armas-ocultas.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armas para Monstruos",
+      "type": "Item",
+      "name": "armas-para-monstruos",
+      "path": "packs/armas-para-monstruos.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Movimientos Básicos",
+      "type": "Item",
+      "name": "movimientos-basicos",
+      "path": "packs/movimientos-basicos.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Movimientos Elegidx",
+      "type": "Item",
+      "name": "movimientos-elegidx",
+      "path": "packs/movimientos-elegidx.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Reglas",
+      "type": "JournalEntry",
+      "name": "reglas",
+      "path": "packs/reglas.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Movimientos Agraviadx",
+      "type": "Item",
+      "name": "movimientos-agraviadx",
+      "path": "packs/movimientos-agraviadx.db",
+      "system": "pbta",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
